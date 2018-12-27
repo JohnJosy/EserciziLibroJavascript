@@ -4,7 +4,7 @@ html {
 
 body {
     background-color: #b6a996;
-    background: url('../images/hobart.jpg') no-repeat center center fixed;
+    background: url('../img/hobart.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -42,14 +42,14 @@ h1 {
     height: 112px;
     margin: 0 auto 0 auto;
     padding-top: 40px;
-    background: url('../images/elderflower-logo.png') no-repeat bottom center;
+    background: url('../img/elderflower-logo.png') no-repeat bottom center;
 }
 
 h2 {
     width: 286px;
     height: 18px;
     margin: 0 auto 20px auto;
-    background: url('../images/custom-sign.png') no-repeat center center;
+    background: url('../img/custom-sign.png') no-repeat center center;
 }
 
 #title {
@@ -96,7 +96,7 @@ a {
 
 .true,
 .false {
-    background: url("../images/tick-cross.png");
+    background: url("../img/tick-cross.png");
     display: block;
     float: right;
     height: 25px;
