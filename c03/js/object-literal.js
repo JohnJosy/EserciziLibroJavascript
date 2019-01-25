@@ -19,7 +19,7 @@ var roomsFree = hotel['checkAvailability'](); */
 var hotelName = hotel.name;
 var roomsFree = hotel.checkAvailability();
 
-elhotelName.textContent = hotelName;
+elhotelName.innerHTML = hotelName;
 elroomsFree.textContent = roomsFree;
 
 
