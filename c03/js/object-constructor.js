@@ -14,11 +14,8 @@ hotel.checkAvailability = function () {
     delete hotel.name;
 */
 
-
 var elName = document.getElementById('hotelName')
 elName.textContent = hotel.name;
-
-
 
 var elFreeRoms = document.getElementById('rooms')
 elFreeRoms.textContent = hotel.checkAvailability()
