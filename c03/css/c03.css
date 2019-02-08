@@ -28,7 +28,8 @@ h1 {
 h2 {
   margin: 1.75em 0 0 0;
   color: #adffda; 
-  font-weight: normal;}
+  font-weight: normal;
+}
 
 h2 + p {
   margin: 0.25em 0 0 0;
@@ -112,7 +113,8 @@ p + h2 {
 #offerEnds {
   text-transform: uppercase;
   color: #ffb87a;
-  font-size: 75%;}
+  font-size: 75%;
+}
 
 .true, .false {
   padding: 0 50px 0 50px;
@@ -139,7 +141,8 @@ p + h2 {
 
 #footer p {
   padding: 10px;
-  margin: 0;}
+  margin: 0;
+}
 
 .data {
   padding: 10px;
