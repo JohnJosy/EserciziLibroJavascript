@@ -25,10 +25,10 @@ var msg = '<h3><strong>Tempo Passato dalla nascita di Nostra Padrona Elisa</stro
 
 var elMessage = document.getElementById('message')
 elMessage.innerHTML = msg
-setInterval(() => {
+/* setInterval(() => {
     console.log(Math.floor(secondi))
     window.location.reload(true);
-}, 2000);
+}, 2000); */
 
 
  
