@@ -40,7 +40,7 @@
         month = monthNames[weekFromToday.getMonth()]
         year = weekFromToday.getFullYear()
         //Creo il Messaggio
-        var scadenzaMsg = 'Offerta scadr\u00C1: '
+        var scadenzaMsg = 'L\'offerta scadr\u00C1: <br>'
         scadenzaMsg += day +'<br> (' + date + ' ' + month + ' ' + year + ')'
         return scadenzaMsg
     }
